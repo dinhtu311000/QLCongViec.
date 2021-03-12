@@ -21,6 +21,4 @@ function RootNativation() {
     </NavigationContainer>
   );
 }
-
-
 export default RootNativation;
